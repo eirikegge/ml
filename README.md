@@ -3,7 +3,7 @@ Data Mining, Machine Learning &amp; Deep Learning (CBS Project)
 
 Note: 
  - Code (py) & Dataset (csv)
- - GridSearchCV runned on UCloud: 
+ - Machine Type (Ucloud): 
  	- 8 vCPU
 	- 47 RAM (GB)
 
